@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first Post",
+      "datetime": "April 05, 2023 7:11:03 AM",
+      "body": "Daichi Koyanagi "
+    },
+    {
+      "id": 2,
+      "title": "My second post",
+      "datetime": "April 08,2023 2:38:40 PM",
+      "body": "Daichi Koyanagi"
+    },
+    {
+      "id": 3,
+      "title": "My third post",
+      "datetime": "April 08,2023 2:38:33 PM",
+      "body": "Daichi Koyanagi"
+    },
+    {
+      "id": 4,
+      "title": "My fourth post",
+      "datetime": "April 07, 2023 6:00:32 PM",
+      "body": "Daichi Koyanagi"
+    },
+    {
+      "id": 5,
+      "title": "My fifth post",
+      "datetime": "April 08,2023 2:38:26 PM",
+      "body": "Daichi Koyanagi"
+    },
+    {
+      "id": 6,
+      "title": "My sixth post ",
+      "datetime": "April 08,2023 2:38:18 PM",
+      "body": "Daichi Koyanagi"
+    }
+  ]
+}
