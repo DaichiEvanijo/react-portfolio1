@@ -22,7 +22,7 @@ function App() {
           <Route path="/post/:id" component={PostPage} />
           <Route path="/edit/:id"component={EditPost} />
           <Route path="/about" component={About}/>
-          <Route path="/*" component={Missing}/>
+          <Route path="*" component={Missing}/>
         </Switch>
       </DataProvider>
       <Footer/>
