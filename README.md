@@ -12,7 +12,7 @@ Here are some of the main features that I used in this project:
 3. State Management with useContext
 4. Custom Hook to create reusable components
 5. Canceltoken
-6.React Routing  etc.
+6. React Routing  etc.
 
 
 
