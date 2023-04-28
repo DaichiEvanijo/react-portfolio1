@@ -2,7 +2,7 @@
 
 Thank you very much for visiting this page. I hope this proect helps you to see a part of my ability to code ! 
 
-*This website is focued on React.js. Therefore, the design side of this website is less contributed.*
+*This website is focued on React.js. Therefore, the design side of this website is less focused.*
 
 *please also start json-server by typing "npx json-server -p 3500 -w Data/db.json" in terminal to check CRUD operation that is created in this website.*
 
