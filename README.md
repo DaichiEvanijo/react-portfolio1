@@ -4,7 +4,9 @@ Thank you very much for visiting this page. I hope this proect helps you to see 
 
 *This website is focued on React.js. Therefore, the design side of this website is less focused.*
 
-*please also start json-server by typing "npx json-server -p 3500 -w Data/db.json" in terminal to check CRUD operation that is created in this website.*
+*In order to check the website with CRUD operation with json-server(after you clone this repo),
+1. type "npm start" in Terminal 
+2. type "npx json-server -p 3500 -w Data/db.json" to run json-server in Terminal
 
 Here are some of the main features that I used in this project: 
 1. CRUD operation with RestAPI by JSON server by means of Axios with async/await
